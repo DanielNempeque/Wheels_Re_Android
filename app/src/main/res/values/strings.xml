@@ -1,3 +1,7 @@
 <resources>
-    <string name="app_name">Wheels_Re</string>
+    <string name="app_name">Wheels</string>
+    <string name="car_desc">Car</string>
+    <string name="iniciar_sesion">Iniciar sesion</string>
+    <string name="correo_institucional">Correo institucional</string>
+    <string name="password">Contraseña</string>
 </resources>
