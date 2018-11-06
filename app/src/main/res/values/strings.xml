@@ -7,8 +7,14 @@
     <string name="title_activity_menu">MenuActivity</string>
     <string name="navigation_drawer_open">Open navigation drawer</string>
     <string name="navigation_drawer_close">Close navigation drawer</string>
-    <string name="nav_header_title">Android Studio</string>
-    <string name="nav_header_subtitle">android.studio@android.com</string>
+    <string name="nav_header_title">Pedro Ramirez</string>
+    <string name="nav_header_subtitle">pedroraca@unisabana.edu.co
+
+    </string>
     <string name="nav_header_desc">Navigation header</string>
     <string name="action_settings">Settings</string>
+    <string name="agregar_rutas">Agregar rutas</string>
+    <string name="mis_rutas">Mis rutas</string>
+    <string name="configuracion">Configuración</string>
+    <string name="logout">Cerrar Sesión</string>
 </resources>
